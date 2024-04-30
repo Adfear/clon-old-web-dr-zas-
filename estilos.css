@@ -1,0 +1,139 @@
+body {
+    background-color: rgb(237, 198, 107);
+    color: white;
+    font-family: 'Nunito';
+}
+
+
+fondogris{
+    background-color: rgb(11, 11, 11);
+    width: auto; 
+    height: 175px; 
+    border: auto;
+    justify-self: center;
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    margin-top: 200px;
+    margin-left: 20px;
+    margin-right:  20px;
+    text-align: auto;
+
+}
+    
+
+fondoverde1{
+    background-color: rgb(18, 196, 95);
+    width: 600px; 
+    height: 300px; 
+    border: 30px;
+    justify-self: center;
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    margin-top: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: auto;
+
+}
+
+elemento1, elemento2 {
+    background-color: rgb(11, 11, 11);
+    text-align: center;
+    border: 3px; 
+    padding: 20px;
+    color: white;
+
+}
+header { 
+    padding: 10px;
+    color: rgb(255, 255, 255);
+}
+header1{
+    background: rgba(14, 14, 14, 0.986);
+	color: white;
+	height: 200px;
+    width: 100%; 
+    left: 0;
+    top: 0;
+    padding: 2%;
+    position: fixed;
+    opacity: 1;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    
+    
+    
+
+}
+
+header2{
+    background: rgba(0, 0, 0, 0);
+	color: white;
+	height: 50px;
+    width: 100%; 
+    left: 0px;
+    top: 50px;
+    margin: auto;
+    padding: 2%;
+    position: fixed;
+    opacity: 0.9;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bold;
+    align-items: center;
+    font-size: 30px;
+}
+
+.seccion{
+    width: 100%;
+}
+
+.zona {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+#tamanho {
+    width: 100%;
+    padding: 50px;
+    border-radius: 13%
+}
+#tamanho2 {
+    width: 10%;
+    padding: 50px;
+    border-radius: 13%
+}
+.politicas {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+h1 {
+text-align: center;
+font-size: 30pt;
+padding: 10px;
+}
+
+
+a {
+
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bold;
+
+}
+
+.info {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+
+}
